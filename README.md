@@ -32,9 +32,9 @@ I created this app because I teach Arabic reading and writing to 15–20 student
 # Tech Stack: 
 Backend
 - Python
-- Flask – lightweight web framework
-- SQLite – simple file-based database
-- SQLAlchemy – ORM for clean database models
+- Flask
+- SQLite 
+- SQLAlchemy
 
 Frontend
 - HTML & CSS
